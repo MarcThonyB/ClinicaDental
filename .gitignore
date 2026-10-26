@@ -1,0 +1,15 @@
+target/
+*.class
+.idea/
+*.iml
+out/
+build/
+.DS_Store
+.env
+nbproject/private/
+logs/
+*.log
+
+# Configuracion local (cada quien la suya; nunca se sube)
+config.properties
+src/main/resources/pe/edu/utp/dentrix/config.properties
